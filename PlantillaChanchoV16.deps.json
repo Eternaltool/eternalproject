@@ -15,7 +15,7 @@
           "Microsoft.NET.ILLink.Analyzers": "7.0.100-1.23211.1",
           "Microsoft.NET.ILLink.Tasks": "7.0.100-1.23211.1",
           "Newtonsoft.Json": "13.0.3",
-          "DiscordRPC (1)": "1.2.1.24"
+          "DiscordRPC": "1.2.1.24"
         },
         "runtime": {
           "PlantillaChanchoV16.dll": {}
@@ -86,9 +86,9 @@
           }
         }
       },
-      "DiscordRPC (1)/1.2.1.24": {
+      "DiscordRPC/1.2.1.24": {
         "runtime": {
-          "DiscordRPC (1).dll": {
+          "DiscordRPC.dll": {
             "assemblyVersion": "1.2.1.24",
             "fileVersion": "1.2.1.24"
           }
@@ -165,7 +165,7 @@
       "path": "system.management/7.0.0",
       "hashPath": "system.management.7.0.0.nupkg.sha512"
     },
-    "DiscordRPC (1)/1.2.1.24": {
+    "DiscordRPC/1.2.1.24": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
